@@ -28,6 +28,6 @@ class ClientController(val repository: ClientRepository){
 		.ifPresent{ repository.delete(it)}
 		
 	@GetMapping
-	fun findByIssueDegree() :ResponseEntity<(Mutable)List<Client>> = ResponseEntity.ok(repository.findAll((1/(1 + e^-(-2.8 + sd+=))) * 100))]
+	fun findByIssueDegree() :ResponseEntity<(Mutable)List<Client>> = ResponseEntity.ok(repository.findAll((1/(1 + e^-(-2.8 + sd++))) * 100))]
 	
 }
