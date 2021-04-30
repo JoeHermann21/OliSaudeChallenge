@@ -1,5 +1,5 @@
 # OliSaudeChallenge
-Resposta ao Teste para o processo seletivo da OilSaude
+Resposta ao Teste para o processo seletivo da OliSaude
 
 API para gerenciar um CRUD de clientes, feita com Kotlin, SpringBoot e MongoDB
 
